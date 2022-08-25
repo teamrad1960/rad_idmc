@@ -1,0 +1,50 @@
+{
+  "objectInfo" : {
+    "id" : "jg7HyYyT32lcv9xLZVbEcV",
+    "name" : "test web service",
+    "type" : "BSERVICE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01088P27000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      }, {
+        "name" : "01088P28000000000002",
+        "value" : "jg7HyYyT32lcv9xLZVbEcV@SayHello"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "32SYfz2ooAXf0d2xzOTrK0",
+    "name" : "test ws",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01088P0B00000000000D"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
